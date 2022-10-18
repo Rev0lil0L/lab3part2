@@ -1,5 +1,3 @@
-# Preview
-
 # PC
 
 |Program|Software manufacturer|Software version|Software type|
